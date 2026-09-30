@@ -1,8 +1,6 @@
-# Trade Ledger Services.
+# \#Status
 
-A practice backend that books trades, stores them in a database, and reports positions.
 
-# trade-ledger
 
-# Logs analysis
+Git Collaboration and PR's.
 
